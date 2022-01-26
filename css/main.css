@@ -1,5 +1,6 @@
 body{
 margin: 0px;
+margin-top: 10px;
 padding: 0px;
 font-family: 'Readex Pro', sans-serif;
 }
@@ -9,4 +10,23 @@ border-radius: 100%;
 box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
 margin-left: 10px;
 margin-top: 5px;
+}
+
+/* Side-img-t */
+.ss-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0px;
+  
+}
+
+.ss-image {
+  flex-basis: 40%
+}
+
+.ss-text {
+font-size: 8px;
+padding: 10px;
+margin-left: 0px;
 }
