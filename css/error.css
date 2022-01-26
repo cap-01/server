@@ -1,8 +1,27 @@
-.error-text{
-font-size: 200px;
+body{
+margin: 0px;
+margin-top: 10px;
+padding: 0px;
+font-family: 'Readex Pro', sans-serif;
+background-image: url('../image/404_bg.jpg');
+background-repeat: no-repeat;
+background-size: auto;
+}
+
+.error-text-OOPS{
+font-size: 100px;
 text-align: center;
+color: white;
+}
+
+.error-text{
+font-size: 160px;
+text-align: center;
+color: white;
 }
 
 .error-p-text{
 text-align: center;
+color: white;
+font-size: 20px;
 }
