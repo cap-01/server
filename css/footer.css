@@ -1,0 +1,25 @@
+.footer-container{
+display: flex;
+background-color: black;
+color: #ffffff;
+margin: 0px;
+}
+
+.footer-heading{
+font-size: 22px;
+}
+
+.footer-content{
+margin-right: 35px;
+margin-left: 35px;
+text-align: center;
+}
+
+.footer-text{
+font-size: 12px;
+}
+
+.footer-link{
+color: white;
+outline: none;
+}
